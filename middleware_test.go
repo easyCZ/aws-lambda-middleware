@@ -1,4 +1,4 @@
-package aws_lambda_middleware
+package lambdamiddleware
 
 import (
 	"context"
